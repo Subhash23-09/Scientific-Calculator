@@ -1,5 +1,5 @@
 # Scientific-Calculator
-# Scientific Calculator
+
 
 Scientific calculator built with Python and Tkinter.
 
